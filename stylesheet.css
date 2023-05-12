@@ -1,0 +1,42 @@
+#footer{
+    width: 100%;
+}
+#header{
+    background-color: lightblue;
+    margin: 0px;
+}
+#logo{
+    float: left;
+}
+#title{
+    text-align: center;
+    background-color: lightblue;
+    padding-top: 5px;
+}
+#next{
+    float: right;
+}
+#prev{
+    float:left;
+}
+#Content{
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: lightblue;
+}
+body{
+    background-color: grey;
+}
+h3{
+    font-size: 35px;
+}
+p{
+    font-size: 25px;
+}
+h1{
+    font-size:50px
+}
+li{
+    font-size: 20px;
+}
